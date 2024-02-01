@@ -1,0 +1,9 @@
+.poza1 {
+-fx-background-image: url(meandyou.jpg);
+-fx-background-size: 180px;
+}
+
+.info {
+-fx-background-image: url(info.png);
+-fx-background-size: 30px;
+}
